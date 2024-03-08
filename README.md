@@ -2,8 +2,8 @@
 Hey there! I'm Manoj Kumar Mithireddy, a computer science student at Gayatri Vidya Parishad College for Degree and PG courses. Currently, I'm on an exciting journey of learning and exploring the world of computer science. I have a keen interest in Java development and am passionate about mastering the fundamentals of this versatile programming language. Feel free to reach out to me for discussions on Java or anything related to computer science!
 
 ## 🌐 Socials:
-LinkedIn: [@manoj-kumar-mithireddy](https://linkedin.com/in/manoj-kumar-mithireddy)>
-Discord:@manojkumar2305
+- LinkedIn: [@manoj-kumar-mithireddy](https://linkedin.com/in/manoj-kumar-mithireddy)
+- Discord:@manojkumar2305
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
