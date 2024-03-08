@@ -2,6 +2,7 @@
 Hey there! I'm Manoj Kumar Mithireddy, a computer science student at Gayatri Vidya Parishad College for Degree and PG courses. Currently, I'm on an exciting journey of learning and exploring the world of computer science. I have a keen interest in Java development and am passionate about mastering the fundamentals of this versatile programming language. Feel free to reach out to me for discussions on Java or anything related to computer science!
 
 ## 🌐 Socials:
+- Gmail: [Manoj Kumar Mithireddy](manoj73962@gmail.com)
 - LinkedIn: [@manoj-kumar-mithireddy](https://linkedin.com/in/manoj-kumar-mithireddy)
 - Discord:@manojkumar2305
 
