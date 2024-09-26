@@ -12,21 +12,24 @@ Hey there! I'm Manoj Kumar Mithireddy, a computer science student at Gayatri Vid
 - C++
 - Python
 - Java
-- Postgres(SQL)
+- MongoDB
 - HTML,CSS(basic)
-- javascript
+- JavaScript
+- React
+- NodeJS
+  
 
 ## 🔭 Projects
 
 During my learning journey, I've engaged in a variety of projects, each demonstrating my expanding expertise. These endeavors span a wide spectrum, encompassing areas such as data analysis, machine learning models, web development, and database management. I'm driven by the desire to push my boundaries, constantly seeking out new concepts and technologies to explore. I'm always eager to embrace fresh opportunities and broaden my horizons.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manoj-kumar2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manoj-kumar2305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-kumar2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ManojKumarMithireddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManojKumarMithireddy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKumarMithireddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manoj-kumar2305&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ManojKumarMithireddy&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
